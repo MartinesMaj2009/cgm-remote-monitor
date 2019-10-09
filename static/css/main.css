@@ -427,7 +427,7 @@ a, a:visited, a:link {
   list-style: none;
   margin: 4px;
   padding: 0;
-  color: #808080;
+  color: #9f3c0b;
   width: 40%;
   text-align: center;
 }
@@ -437,14 +437,14 @@ a, a:visited, a:link {
   font-size: 18px;
   white-space: nowrap;
   border-radius: 5px;
-  border: 2px solid #000;
+  border: 1px solid #ce2727;
   cursor: pointer;
 }
 
 .focus-range .selected {
-  border-color: #808080;
-  color: #000;
-  background: #808080;
+  border-color: #9f3c0b;
+  color: #ffd455;
+  background: #9f3c0b;
 }
 
 .pill.hidden {
