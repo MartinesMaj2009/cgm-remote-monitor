@@ -215,6 +215,11 @@ a, a:visited, a:link {
     border-color: #dddddd !important;
     margin-right: 5px;
 }
+
+.statusPills .pill em {
+    color: #9f3c0b !important;
+   
+}
 .pill em, .pill label {
   padding: 2px 3px;
   white-space: nowrap;
