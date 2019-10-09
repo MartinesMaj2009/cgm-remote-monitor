@@ -72,10 +72,25 @@ html, body {
 
 body {
   font-family: 'Ubuntu', sans-serif;
-  background: #000;
-  color: #bdbdbd;
+  background: #C4AF92;
+  color: #9F3C0B;
 }
 
+#toolbar {
+  background: #ac6425 !important;}
+
+
+#toolbar .customTitle {
+    color: #FFD455 !important;
+    font-size: 24px !important;
+    margin-top: 0;
+    margin-left: 42px;
+    padding-top: 10px;
+    padding-right: 150px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
 .container {
   bottom: 0;
   display: block;
@@ -189,8 +204,8 @@ a, a:visited, a:link {
 .pill {
   white-space: nowrap;
   border-radius: 5px;
-  border: 2px solid #808080;
-  background: #808080;
+  border: 1px solid #dddddd;
+  background: #f2ddca;
   display: inline-block;
   margin-bottom: 4px;
   padding: 2px 0;
@@ -314,7 +329,7 @@ a, a:visited, a:link {
 
 .bgButton {
   margin: 10px;
-  border: 2px solid #000;
+  border: 2px solid #ffd455;
   border-radius: 5px;
   display: inline-block;
   width: 360px;
