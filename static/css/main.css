@@ -223,12 +223,12 @@ a, a:visited, a:link {
 .pill em {
   font-style: normal;
   font-weight: bold;
-  background: #000;
+  background: #ffd455;
   border-radius: 3px;
 }
 
 .pill label {
-  color: #000;
+  color: #9f3c0b;
 }
 
 .container .pill.warn em {
