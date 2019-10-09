@@ -271,9 +271,14 @@ a, a:visited, a:link {
   font-size: 100px;
   white-space: normal;
 }
-.statusBox {
-  float:left;
-  text-align: center;
+.martinesfoto {
+  width: 130px;
+  align:left;
+}
+
+  
+  .statusBox {
+   text-align: center;
   width: 40%;
 }
 .statusPills {
