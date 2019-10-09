@@ -272,6 +272,7 @@ a, a:visited, a:link {
   white-space: normal;
 }
 .statusBox {
+  float:left;
   text-align: center;
   width: 40%;
 }
