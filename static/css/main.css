@@ -189,7 +189,7 @@ a, a:visited, a:link {
 }
 
 .minorPills {
-  font-size: 22px;
+  font-size: 15px;
   line-height: 25px;
   z-index: 500;
   white-space: normal;
@@ -274,7 +274,7 @@ a, a:visited, a:link {
   white-space: normal;
 }
 
-#current time {margin-left:230px !important;}
+#currentTime {margin-left:230px !important;}
   
   .statusBox {
    text-align: center;
