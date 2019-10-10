@@ -430,6 +430,7 @@ a, a:visited, a:link {
 
 .focus-range {
   list-style: none;
+  margin-left:150px;
   margin: 4px;
   padding: 0;
   color: #9f3c0b;
@@ -541,6 +542,7 @@ a, a:visited, a:link {
   }
 
   .statusBox {
+    margin-left:150px;
     width: auto;
   }
 
