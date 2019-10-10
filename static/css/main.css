@@ -274,7 +274,7 @@ a, a:visited, a:link {
   white-space: normal;
 }
 
-.current time {margin-left:230px !important;}
+#current time {margin-left:230px !important;}
   
   .statusBox {
    text-align: center;
@@ -432,7 +432,7 @@ a, a:visited, a:link {
 
 .focus-range {
   list-style: none;
-  margin-left:230px !important;
+  margin-left:120px !important;
   margin: 4px;
   padding: 0;
   color: #9f3c0b;
