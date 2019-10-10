@@ -274,13 +274,15 @@ a, a:visited, a:link {
   white-space: normal;
 }
 
-
+.current time {margin-left:230px !important;}
   
   .statusBox {
    text-align: center;
   width: 40%;
 }
+
 .statusPills {
+  margin-left:230px !important;
   font-size: 20px;
   line-height: 23px;
   margin-left: 5px;
@@ -542,7 +544,6 @@ a, a:visited, a:link {
   }
 
   .statusBox {
-    margin-left:230px !important;
     width: auto;
   }
 
